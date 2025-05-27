@@ -99,6 +99,7 @@ Essa decisão foi tomada com base em dados reais de vendas, satisfação do clie
 
 - Python (Pandas, Matplotlib, Seaborn)
 - GitHub
+- Google Colab
 
 ---
 
