@@ -1,5 +1,5 @@
 # Analise-lojas
-# # 🛒 Análise de Desempenho das Lojas – Qual Devo Vender?
+# # Análise de Desempenho das Lojas – Qual Devo Vender?
 
 Este projeto tem como objetivo realizar uma análise comparativa de desempenho entre quatro lojas, com base em diversos indicadores estratégicos. Ao final, foi recomendada a venda de uma delas com base em dados quantitativos e qualitativos.
 
